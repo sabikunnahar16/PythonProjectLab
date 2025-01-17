@@ -1,1 +1,16 @@
+name="sabikun" #jkiono time variable change korte be
+age=22
+cgpa=3.60
+print("Anisul"+ " islam")
+print("my name is "+name)
+print(name + " lives in Dhaka")
+print("She is currently ",age," years old" ) #integer er jonn + er proriborte comma use korboo
+print(name+"'s cgpa is : ",cgpa," wonderful")
+#getting user input
+name=input("enter your name:")
+age =input( "Enter your age:")
+print ("students information display:")
+print("name is:" + name)
+print("age is:" + age)
+
 
